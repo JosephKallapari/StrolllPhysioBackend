@@ -29,7 +29,7 @@ dotnet run
 
 **API Endpoints**
 
-**1.Prescribe Exercise Routine **
+****1.Prescribe Exercise Routine ****
 
 POST /api/Physio/prescribe
 
