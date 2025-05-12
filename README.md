@@ -29,7 +29,7 @@ dotnet run
 
 **API Endpoints**
 
-1.Prescribe Exercise Routine 
+**1.Prescribe Exercise Routine **
 
 POST /api/Physio/prescribe
 
@@ -51,7 +51,7 @@ POST /api/Physio/prescribe
 Response
  200 OK:Routine added successfully
 
- 2.Get Session Results by patient ID
+ **2.Get Session Results by patient ID**
 
  GET /api/Physio/physiosessionresults/{patientid}
 
